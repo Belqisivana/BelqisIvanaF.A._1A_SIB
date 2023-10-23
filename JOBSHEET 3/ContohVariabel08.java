@@ -9,6 +9,7 @@ public class ContohVariabel08 {
         System.out.println("Apakah pandai?" + isPandai);
         System.out.println("Jenis kelamin: " + jeniskelamin);
         System.out.println("Umurku saat ini: " + _umursayasekarang);
-        System.out.println(String.format("Saya beripk %s, dengan tinggi badan %s", $ipk, tinggi));
+        System.out.printf("Saya beripk %s, dengan tinggi badan %s\n", $ipk, tinggi);
+        System.out.println("Adam");
     }
 }
